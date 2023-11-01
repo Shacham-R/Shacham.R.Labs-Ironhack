@@ -46,9 +46,15 @@ SELECT COUNT(staff_id)
 FROM staff
 ;
 
--- TODO 5.3
+SELECT COUNT(*)
+FROM film
+;
 
-SELECT DISTINCT last_name
+SELECT COUNT(*)
+FROM rental
+;
+
+SELECT COUNT(DISTINCT last_name) AS count_of_last_names
 FROM actor
 ;
 -- 6.Retrieve the 10 longest films.
