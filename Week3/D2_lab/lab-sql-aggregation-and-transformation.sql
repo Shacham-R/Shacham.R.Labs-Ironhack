@@ -12,7 +12,7 @@ SELECT MAX(length) AS max_duration, MIN(length) AS min_duration
 FROM film
 ;
 
-SELECT ROUND(AVG(length),0) AS avg_minutes -- TODO hours/minutes
+SELECT FLOOR(AVG(length)/ 60, ' hours ')  -- TODO hours/minutes
 FROM film
 
 ;
@@ -38,7 +38,10 @@ LIMIT 20
 Please note that even if there are currently no null values in the rental duration column, the query should still be written to handle such cases in the future.
 Hint: Look for the IFNULL() function.
 */
-
+SELECT title,  IFNULL(rental_duration, 'Not Available') AS rental_duration
+FROM film
+ORDER BY title ASC
+;
 
 
 -- Challange 2:
@@ -49,6 +52,22 @@ Hint: Look for the IFNULL() function.
 1.3 The number of films for each rating, sorting the results in descending order of the number of films. 
 This will help you to better understand the popularity of different film ratings and adjust purchasing decisions accordingly.
 */
+SELECT COUNT(DISTINCT title) AS total_released
+FROM film
+;
+
+SELECT COUNT(film_id), rating
+FROM film
+GROUP BY rating
+;
+
+SELECT COUNT(film_id) AS number_of_films, rating
+FROM film
+GROUP BY rating
+ORDER BY number_of_films DESC
+;
+
+
 
 /*2.Using the film table, determine:
 2.1 The mean film duration for each rating, and sort the results in descending order of the mean duration. 
@@ -56,3 +75,24 @@ Round off the average lengths to two decimal places. This will help identify pop
 2.2 Identify which ratings have a mean duration of over two hours 
 in order to help select films for customers who prefer longer movies.
 */
+
+SELECT ROUND(AVG(length),2) AS avg_film_duration, rating
+FROM film
+GROUP BY rating
+ORDER BY avg_film_duration DESC
+;
+
+SELECT ROUND(AVG(length),2) AS avg_film_duration, rating
+FROM film
+GROUP BY rating
+HAVING avg_film_duration > 120
+ORDER BY avg_film_duration DESC
+;
+
+-- 3.Bonus: determine which last names are not repeated in the table actor.
+
+SELECT last_name , COUNT(DISTINCT last_name) AS repeats
+FROM actor
+GROUP BY last_name -- They are all unique in their own way
+HAVING repeats = 1
+;
