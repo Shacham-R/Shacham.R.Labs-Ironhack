@@ -1,0 +1,448 @@
+,area_name,population_11,air_pollution,bioclimatic_stress_11,green_area_11,noise_11,social_status_11
+0,Stülerstraße,"2,765",3,3,1,2,2
+1,Großer Tiergarten,176,3,2,3,0,1
+2,Lützowstraße,"4,768",3,3,1,2,2
+3,Körnerstraße,"3,809",3,3,2,2,3
+4,Nördlicher Landwehrkanal,901,3,3,3,2,1
+5,Wilhelmstraße,"2,099",3,3,3,3,2
+6,Unter den Linden Nord,479,3,3,1,2,2
+7,Unter den Linden Süd,809,2,3,1,3,1
+8,Leipziger Straße,"5,667",3,3,2,3,2
+9,Charitéviertel,"4,722",2,3,2,2,1
+10,Oranienburger Straße,"11,879",3,3,2,2,2
+11,Alexanderplatzviertel,"8,192",3,3,2,4,2
+12,Karl-Marx-Allee,"8,171",3,3,1,3,2
+13,Heine-Viertel West,"6,259",3,3,2,3,2
+14,Heine-Viertel Ost,"7,579",2,3,2,2,2
+15,Invalidenstraße,"13,743",2,3,2,2,2
+16,Arkonaplatz,"11,606",2,3,1,2,2
+17,Huttenkiez,"3,080",2,3,1,2,3
+18,Beusselkiez,"5,782",3,3,1,2,3
+19,Westhafen,192,2,3,1,0,1
+20,Emdener Straße,"16,874",3,3,1,2,3
+21,Zwinglistraße,"4,815",2,3,2,3,3
+22,Elberfelder Straße,"10,841",3,3,1,1,2
+23,Stephankiez,"9,844",2,3,1,2,3
+24,Heidestraße,"1,456",3,3,1,3,3
+25,Lübecker Straße,"6,457",2,3,2,2,3
+26,Thomasiusstraße,"5,553",2,3,2,2,2
+27,Zillesiedlung,"3,027",2,3,2,2,3
+28,Lüneburger Straße,"2,990",3,3,3,2,2
+29,Hansaviertel,"5,538",3,3,3,3,2
+30,Soldiner Straße,"23,939",2,3,1,4,3
+31,Gesundbrunnen,"10,870",3,3,1,2,3
+32,Brunnenstraße,"12,707",2,3,2,2,3
+33,Humboldthain Süd,"9,483",2,3,2,2,3
+34,Humboldthain Nordwest,"12,893",2,3,2,2,3
+35,Rehberge,"18,922",2,2,3,4,3
+36,Schillerpark,"14,927",2,3,3,4,3
+37,Westliche Müllerstraße,"7,464",3,3,1,2,3
+38,Reinickerdorfer Straße,"21,534",3,3,1,2,3
+39,Sparrplatz,"15,333",3,3,1,1,3
+40,Leopoldplatz,"15,007",2,3,1,2,3
+41,Askanischer Platz,6086,3,3,3,2,3
+42,Mehringplatz,12661,3,3,2,2,3
+43,Moritzplatz,15131,2,3,2,2,3
+44,Wassertorplatz,4994,3,3,2,2,3
+45,Gleisdreieck/Entwicklungsgebiet,276,3,3,2,2,2
+46,Rathaus Yorckstraße,5505,3,3,2,2,2
+47,Viktoriapark,9915,3,3,3,2,2
+48,Urbanstraße,11859,3,3,1,2,2
+49,Chamissokiez,14535,2,2,1,1,2
+50,Graefekiez,18318,3,3,2,2,2
+51,Oranienplatz,9130,2,3,1,2,3
+52,Lausitzer Platz,13134,3,3,2,2,3
+53,Reichenberger Straße,14793,2,3,2,1,2
+54,Wrangelkiez,11195,2,3,2,1,2
+55,Barnimkiez,5371,2,2,3,3,2
+56,Friedenstraße,6731,3,2,2,3,2
+57,Richard-Sorge-Viertel,10114,2,3,1,2,2
+58,Andreasviertel,12087,3,3,1,3,2
+59,Weberwiese,10218,2,3,2,2,2
+60,Wriezener Bahnhof/Entwicklungsgebiet,502,2,3,2,3,3
+61,Hausburgviertel,8426,3,3,1,2,2
+62,Samariterviertel,18603,2,3,1,2,2
+63,Traveplatz,17724,2,3,1,2,2
+64,Boxhagener Platz,18781,2,3,1,2,2
+65,Stralauer Kiez,6275,2,3,1,2,2
+66,Stralauer Halbinsel,2997,2,2,3,1,1
+67,Bucher Forst,2836,1,1,3,1,2
+68,Buch,9838,2,2,3,2,2
+69,Lietzengraben,190,2,1,3,0,1
+70,Blankenfelde,1882,1,1,3,1,2
+71,Niederschönhausen,13180,2,2,2,3,2
+72,Herthaplatz,9966,2,2,3,2,2
+73,Buchholz,16724,2,2,3,2,2
+74,Karow Nord,10712,1,1,3,2,2
+75,Alt-Karow,8105,1,1,3,2,1
+76,Blankenburg,6533,1,1,3,2,1
+77,Heinersdorf,6492,2,2,3,4,2
+78,Märchenland,1123,2,1,3,4,1
+79,Rosenthal,4500,2,1,3,2,2
+80,Wilhelmsruh,9317,2,2,3,2,2
+81,Schönholz,3247,2,2,3,4,1
+82,Pankow Zentrum,32184,2,3,2,4,2
+83,Pankow Süd,31621,2,3,1,3,2
+84,Gustav-Adolf-Straße,4846,2,2,2,1,2
+85,Weißer See,6309,2,3,3,2,2
+86,Weißenseer Spitze,8031,2,3,1,2,2
+87,Behaimstraße,5288,2,3,2,2,2
+88,Komponistenviertel Weißensee,8207,2,3,2,2,2
+89,Rennbahnstraße,4057,2,2,3,3,2
+90,Buschallee,6416,2,3,3,2,2
+91,Hansastraße,4539,2,2,3,2,2
+92,Arnimplatz,13819,2,3,1,2,2
+93,Falkplatz,9596,2,3,2,2,2
+94,Humannplatz,13803,3,3,1,2,2
+95,Erich-Weinert-Straße,11983,3,3,1,2,2
+96,Helmholtzplatz,20950,2,3,1,2,2
+97,Greifswalder Straße,10111,3,3,2,2,2
+98,Volkspark Prenzlauer Berg,2891,2,2,3,3,2
+99,Anton-Saefkow-Park,5693,3,3,2,2,2
+100,Conrad-Blenkle-Straße,3824,2,3,3,3,2
+101,Eldenaer Straße,1659,2,3,3,1,1
+102,Teutoburger Platz,10070,3,3,1,2,2
+103,Kollwitzplatz,14023,2,3,1,2,2
+104,Thälmannpark,2482,2,3,3,2,2
+105,Winsstraße,16093,2,3,1,2,2
+106,Bötzowstraße,11881,3,3,2,2,2
+107,Jungfernheide,9908,3,2,3,2,3
+108,Plötzensee,704,3,2,3,3,2
+109,Paul-Hertz-Siedlung,7304,3,3,2,2,3
+110,Olympiagelände,128,1,2,3,0,1
+111,Siedlung Ruhleben,1222,2,2,3,3,1
+112,Angerburger Allee,2573,2,2,3,2,2
+113,Flatowallee,2580,2,2,3,2,1
+114,Kranzallee,2796,2,1,3,2,1
+115,Eichkamp,3099,2,1,3,2,1
+116,Park Ruhwald,578,3,2,1,4,2
+117,Reichsstraße,13896,3,2,2,2,2
+118,Branitzer Platz,4857,2,2,3,2,2
+119,Königin-Elisabeth-Straße,6763,3,3,1,3,2
+120,Messegelände,9,3,2,0,0,1
+121,Schloßgarten,2649,2,2,3,3,3
+122,Klausenerplatz,10154,3,3,2,2,2
+123,Schloßstraße,10287,3,3,2,2,2
+124,Tegeler Weg,8942,3,3,1,2,2
+125,Kaiserin-Augusta-Allee,5172,2,3,2,2,2
+126,Alt-Lietzow,8338,3,3,3,2,2
+127,Spreestadt,2903,2,3,2,2,3
+128,Richard-Wagner-Straße,9826,3,3,1,2,2
+129,Ernst-Reuter-Platz,4211,3,3,2,2,2
+130,Lietzensee,6266,3,2,2,3,2
+131,Amtsgerichtsplatz,11372,3,3,1,2,2
+132,Droysenstraße,5186,3,3,1,2,2
+133,Kalr-August-Platz,11107,2,3,1,2,2
+134,Savignyplatz,9137,3,3,1,2,2
+135,Hindemithplatz,5635,3,3,1,2,2
+136,George-Grosz-Platz,5288,3,3,1,2,2
+137,Breitscheidplatz,3410,3,3,1,2,2
+138,Halensee,14141,3,2,1,2,2
+139,Güterbahnhof Grunewald,43,3,1,1,0,1
+140,Bismarckallee,4699,2,1,3,2,2
+141,Hundekehle,2756,3,1,3,2,1
+142,Hagenplatz,2893,2,1,3,2,1
+143,Flinsberger Platz,7564,3,2,2,2,2
+144,Kissinger Straße,5433,2,2,2,2,2
+145,Stadion Wilmersdorf,154,3,2,1,0,1
+146,Messelpark,1556,2,1,3,2,1
+147,Breite Straße,6545,2,2,1,1,2
+148,Schlangenbader Straße,3976,3,3,1,3,2
+149,Binger Straße,3469,2,2,2,2,2
+150,Rüdesheimer Platz,10519,2,3,1,2,2
+151,Eisenzahnstraße,5760,3,3,2,3,2
+152,Preußenpark,9869,3,3,2,2,2
+153,Ludwigkirchplatz,5026,2,3,1,1,2
+154,Schaperstraße,8533,3,3,1,2,2
+155,Rathaus Wilmersdorf,4056,3,2,3,3,2
+156,Leon-Jessel-Platz,5192,2,3,1,2,2
+157,Brabanter Platz,4211,3,2,3,3,2
+158,Nikolsburger Platz,9172,2,3,1,2,2
+159,Prager Platz,6412,2,3,1,1,2
+160,Wilhelmsaue,2817,3,3,3,2,2
+161,Babelsberger Straße,6558,3,3,2,3,2
+162,Hildegardstraße,7184,3,3,2,2,2
+163,Forst Grunewald,73,1,1,3,0,1
+164,Hakenfelde Nord,9717,1,1,3,4,2
+165,Goltzstraße,5538,2,2,3,3,2
+166,Amorbacher Weg,7467,2,1,3,4,2
+167,Griesingerstraße,3162,1,2,3,3,3
+168,An der Tränke,1949,1,2,3,4,1
+169,Gütersloher Weg,9863,1,2,3,4,3
+170,Darbystraße,10855,2,3,3,4,3
+171,Germersheimer Platz,7072,2,3,3,4,3
+172,An der Kappe,5903,2,2,3,4,2
+173,Eckschanze,3574,2,2,3,4,2
+174,Eiswerder,5053,2,3,3,4,3
+175,Kurstraße,6109,2,3,2,4,3
+176,Ackerstraße,6243,3,3,2,4,2
+177,Carl-Schurz-Straße,11125,2,3,3,4,2
+178,Freiheit,427,2,3,2,4,2
+179,Isenburger Weg,4018,1,1,3,4,1
+180,Am Heideberg,1784,1,2,3,4,2
+181,Staakener Straße,5545,2,2,3,3,2
+182,Spandauer Straße,4014,1,2,3,4,2
+183,Magistratsweg,6816,1,2,3,2,2
+184,Werkstraße,942,1,2,3,2,1
+185,Döberitzer Weg,2645,1,1,3,2,1
+186,Pillnitzer Weg,6393,1,2,3,2,3
+187,Maulbeerallee,11428,2,2,3,1,3
+188,Weinmeisterhornweg,6106,2,1,3,1,2
+189,Borkumer Straße,7041,2,3,3,2,2
+190,Adamstraße,16462,2,3,3,2,2
+191,Tiefwerder,3750,2,2,3,3,2
+192,Graetschelsteig,2036,3,2,3,2,2
+193,Börnicker Straße,4341,1,1,3,2,1
+194,Zitadellenweg,3213,2,3,3,4,2
+195,Gartenfelder Straße,10411,2,3,3,4,3
+196,Rohrdamm,10885,2,3,2,4,2
+197,Motardstraße,1014,2,3,1,0,1
+198,Alt-Gatow,3436,1,1,3,2,1
+199,Groß-Glienicker Straße,389,1,1,3,1,2
+200,Jägerallee,8215,1,2,3,1,1
+201,Kladower Damm,2129,1,2,3,1,1
+202,Kafkastraße,3575,1,2,3,1,1
+203,Fichtenberg,6699,2,2,3,2,1
+204,Schloßstraße,8407,2,3,1,2,2
+205,Markelstraße,6183,3,3,1,2,2
+206,Munsterdamm,6665,2,2,3,2,2
+207,Südende,9327,2,3,1,2,2
+208,Stadtpark,7464,2,3,3,2,2
+209,Mittelstraße,7799,2,3,2,2,2
+210,Bergstraße,6402,3,3,2,2,2
+211,Feuerbachstraße,8746,3,3,1,2,2
+212,Bismarckstraße,4772,2,3,1,2,2
+213,Alt-Lankwitz,4936,2,2,2,2,2
+214,Komponistenviertel Lankwitz,5309,2,2,3,2,2
+215,Lankwitz Kirche,7065,2,3,3,2,2
+216,Kaiser-Wilhelm-Straße,6758,2,2,3,1,2
+217,Gemeindepark Lankwitz,10677,2,3,3,1,2
+218,Lankwitz Süd,6497,2,2,3,1,2
+219,Thermometersiedlung,4667,1,2,1,1,3
+220,Lichterfelde Süd,6583,1,2,3,2,2
+221,Königsberger Straße,8028,2,2,3,2,2
+222,Oberhofer Platz,6859,2,2,3,2,1
+223,Schütte-Lanz-Straße,8481,1,1,3,1,2
+224,Berlepschstraße,5547,2,2,3,1,2
+225,Zehlendorf Süd,5124,1,2,3,1,2
+226,Zehlendorf Mitte,11120,2,2,3,2,2
+227,Teltower Damm,10960,2,2,3,1,1
+228,Botanischer Garten,6780,2,2,2,2,2
+229,Hindenburgdamm,4951,2,2,3,2,2
+230,Goerzwerke,3210,1,3,3,2,1
+231,Schweizer Viertel,11044,1,2,3,1,1
+232,Augustaplatz,11530,2,2,3,2,2
+233,Lichtenfelde West,8016,2,2,3,1,1
+234,Wannsee,9437,1,1,3,2,1
+235,Düppel,5500,1,2,3,2,1
+236,Nikolassee,10694,1,1,3,2,1
+237,Krumme Lanke,7541,1,1,3,1,1
+238,Fischerhüttenstraße,5173,1,2,3,1,1
+239,Fischtal,7265,1,2,3,2,1
+240,Zehlendorf Eiche,5739,2,2,3,2,1
+241,Hüttenweg,4103,2,2,3,2,1
+242,Thielallee,5041,2,2,3,2,1
+243,Dahlem,6593,2,1,3,2,1
+244,Wittenbergplatz/Viktoria-Luise-Platz,9305,3,3,1,2,2
+245,Nollendorfplatz,15489,3,3,1,2,2
+246,Barbarossaplatz,9947,2,3,1,2,2
+247,Dennewitzplatz,13238,3,3,2,2,3
+248,Bayerischer Platz,10241,3,3,1,2,2
+249,Volkspark (Rudolf-Wilde-Park),9443,3,3,2,2,2
+250,Kaiser-Wilhelm-Platz,17106,3,3,1,2,2
+251,Schöneberger Insel,11176,3,3,1,2,2
+252,Friedenau,23577,3,3,1,2,2
+253,Ceciliengärten,9047,2,3,1,2,2
+254,Grazer Platz,11801,3,2,1,2,2
+255,Neu-Tempelhof,16094,2,2,2,2,2
+256,Lindenhofsiedlung,2062,3,3,2,1,2
+257,Manteuffelstraße,22617,3,3,2,2,2
+258,Marienhöhe,4981,2,2,3,3,2
+259,Rathaus Tempelhof,10172,3,3,2,3,2
+260,Germaniagarten,3321,3,3,3,2,3
+261,Rathausstraße,15493,2,3,2,2,2
+262,Fritz-Werner-Straße,7526,2,3,2,2,2
+263,Eisenacher Straße,8965,2,2,3,2,2
+264,Imbrosweg,5464,3,2,3,1,2
+265,Hundsteinweg,10292,2,2,3,2,2
+266,Birnhornweg,2187,2,2,3,2,1
+267,Marienfelder Allee Nordwest,9598,2,3,3,2,2
+268,Kichstraße,4564,2,2,3,2,2
+269,Marienfelde Nordost,2694,2,3,2,2,2
+270,Marienfelde Süd,13472,1,2,3,1,2
+271,Kettinger Straße/Schillerstraße,10282,2,2,3,2,2
+272,Alt-Lichtenrade/Töpchiner Weg,10106,1,2,3,2,2
+273,John-Locke-Straße,7793,2,2,2,2,2
+274,Nahariyastraße,7810,1,2,3,1,2
+275,Franziusweg/Rohrbachstraße,7061,1,1,3,1,1
+276,Horstwalder Straße/Paplitzer Straße,3644,1,2,3,1,2
+277,Wittelsbacherstraße,2793,1,1,3,1,1
+278,Hasenheide,808,2,2,2,3,2
+279,Wissmannstraße,3428,3,3,3,2,3
+280,Schillerpromenade,15359,2,3,3,1,3
+281,Silbersteinstraße,11042,2,2,1,2,3
+282,Flughafenstraße,9492,2,3,1,2,3
+283,Rollberg,7221,2,3,2,2,3
+284,Körnerpark,12029,2,3,1,2,3
+285,Glaskower Straße,7721,3,3,1,2,3
+286,Reuerkiez,26939,2,3,1,2,3
+287,Bouchéstraße,3663,2,3,1,1,2
+288,Donaustraße,7909,3,3,1,2,3
+289,Rixdorf,22327,2,3,1,2,3
+290,Hertzbergplatz,8588,2,3,2,1,3
+291,Treptower Straße Nord,6547,2,3,1,1,3
+292,Gewerbegebiet Ederstraße,752,2,3,1,1,3
+293,Weiße Siedlung,5145,2,2,1,1,3
+294,Schulenburgpark,9111,2,3,2,2,3
+295,Gewerbegebiet Köllnische Heide,348,3,3,1,0,1
+296,Buschkrugallee Nord,9483,3,3,2,2,3
+297,Tempelhofer Weg,8839,2,3,2,2,3
+298,Mohriner Allee Nord,2334,2,2,3,1,1
+299,Parchimer Allee,14023,2,3,3,2,2
+300,Ortolanweg,1267,2,2,2,2,2
+301,Britzer Garten,1022,1,2,3,2,2
+302,Handwerker-Siedlung,3217,2,2,3,2,2
+303,Buckow West,8245,2,2,3,2,2
+304,Buckow Mitte,11278,2,2,3,1,2
+305,Buckow Ost,7893,1,2,2,1,2
+306,Gropiusstadt Nord,12176,2,3,2,2,3
+307,Gropiusstadt Süd,7236,2,3,3,1,2
+308,Gropiusstadt Ost,16633,2,2,2,1,3
+309,Goldhähnchenweg,2740,2,3,1,1,2
+310,Vogelviertel Süd,3927,2,2,3,2,2
+311,Vogelviertel Nord,2585,2,2,3,2,2
+312,Blumenviertel,7519,2,2,3,2,2
+313,Zittauer Straße,6878,2,1,3,1,1
+314,Alt-Rudow,9581,2,2,3,1,2
+315,Waßmannsdorfer Chaussee,6321,1,2,3,1,1
+316,Frauenviertel,3596,1,2,3,1,2
+317,Waltersdorfer Chaussee Ost,8023,1,2,3,1,2
+318,Elsenstraße,10788,2,3,2,2,2
+319,Am Treptower Park Nord,71,2,2,3,0,1
+320,Am Treptower Park Süd,4147,2,2,3,3,2
+321,Köpenicker Landstraße,6607,2,2,3,2,2
+322,Baumschulenstraße,14286,2,2,2,2,2
+323,Späthsfelde,2900,3,2,3,2,1
+324,Johannisthal West,7788,2,2,3,2,2
+325,Johannisthal Ost,10466,2,2,3,2,2
+326,Oberschönweide West,5464,2,2,1,2,3
+327,Oberschönweide Ost,13455,2,2,2,2,2
+328,Schnellerstraße,7022,2,3,2,3,2
+329,Oberspreee,3424,2,2,3,2,2
+330,Adlershof West,251,2,2,3,0,1
+331,Adlershof Ost,15043,2,2,2,2,2
+332,Spindlersfeld,2732,2,2,3,2,2
+333,Köllnische Vorstadt,7030,2,2,2,3,2
+334,Dorf Altglienicke,11922,2,2,3,2,1
+335,Wohngebiet II,5641,2,2,3,1,3
+336,Kölner Viertel,7789,1,2,3,1,2
+337,Bohnsdorf,11879,1,1,3,4,1
+338,Grünau,5408,1,1,3,2,1
+339,Karolinenhof,1746,1,2,3,2,1
+340,Schmöckwitz/Rauchfangswerder,2322,1,1,3,1,1
+341,Kietzer Feld/Nachtheide,13885,1,1,3,1,2
+342,Wendenschloß,1795,1,1,3,1,1
+343,Allende I,4621,2,2,3,2,2
+344,Allende II,1518,2,2,3,2,2
+345,Altstadt-Kietz,6858,2,3,2,2,2
+346,Müggelheim,6463,1,1,3,2,1
+347,Hirschgarten,3477,1,2,3,2,1
+348,Bölschestraße,14052,1,2,3,2,1
+349,Rahnsdorf/Hessenwinkel,8948,1,1,3,1,1
+350,Dammvorstadt,9338,2,2,3,2,2
+351,Köpenick Nord,12351,1,1,3,2,2
+352,Marzahn West,5566,1,2,3,1,3
+353,Havemannstraße,17027,2,2,3,1,3
+354,Gewerbegebiet Bitterfelder Straße,668,1,3,2,0,1
+355,Wuhletalstraße,10039,2,3,3,2,3
+356,Marzahn Ost,7727,1,2,3,2,3
+357,Ringkolonnaden,16185,2,3,3,2,2
+358,Marzahner Promenade,10552,3,3,1,2,3
+359,Marzahner Chaussee,1684,2,3,3,3,2
+360,Springpfuhl,14314,3,3,3,2,2
+361,Alt-Marzahn,17079,2,3,3,2,2
+362,Landsberger Tor,2927,2,2,3,2,2
+363,Alte Hellersdorfer Straße,6152,2,2,3,2,3
+364,Gut Hellersdorf,14377,2,3,3,2,2
+365,Helle Mitte,1670,3,3,3,2,3
+366,Hellersdorfer Promenade,5183,2,2,3,1,3
+367,Böhlener Straße,5146,2,2,3,1,3
+368,Adele-Sandrock-Straße,8818,2,3,3,1,2
+369,Schleipfuhl,4818,1,3,3,1,2
+370,Boulevard Kastanienallee,4608,1,3,3,2,3
+371,Kaulsdorf Nord II,3156,2,2,3,1,2
+372,Gelbes Viertel,5706,2,3,3,1,2
+373,Kaulsdorf Nord I,8649,3,2,3,1,2
+374,Rotes Viertel,6564,1,3,2,1,2
+375,Oberfeldstraße,7840,2,2,3,2,1
+376,Buckower Ring,5811,2,2,3,2,2
+377,Alt-Biesdorf,2583,2,2,3,3,1
+378,Biesdorf Süd,8754,1,2,3,2,1
+379,Kaulsdorf Nord,7720,2,2,3,1,2
+380,Alt-Kaulsdorf,3495,1,2,3,2,1
+381,Kaulsdorf Süd,7460,2,1,3,2,1
+382,Mahlsdorf Nord,8853,1,2,3,1,1
+383,Alt-Mahlsdorf,3877,1,2,3,2,1
+384,Mahlsdorf Süd,14224,1,2,3,1,1
+385,Dorf Malchow,508,2,1,3,4,2
+386,Dorf Wartenberg,2422,1,1,3,2,1
+387,Dorf Falkenberg,1228,1,1,3,2,1
+388,Falkenberg Ost,8470,2,3,3,1,3
+389,Falkenberg West,6582,3,3,3,2,3
+390,Wartenberg Süd,5771,2,3,3,2,2
+391,Wartenberg Nord,6577,2,2,3,4,2
+392,Zingster Straße Ost,11130,1,3,3,2,3
+393,Zingster Straße West,9501,2,2,3,2,3
+394,Mühlengrund,5257,2,3,3,2,2
+395,Malchower Weg,7379,2,2,3,2,2
+396,Hauptstraße,6056,2,3,2,2,2
+397,Orankesee,3369,2,2,3,1,1
+398,Große-Leege-Straße,8048,2,3,1,2,2
+399,Landsberger Allee,14018,2,3,3,2,2
+400,Weiße Taube,3739,2,3,3,2,2
+401,Hohenschönhausener Straße,6027,2,3,3,4,3
+402,Fennpfuhl West,15470,2,3,3,2,2
+403,Fennpfuhl Ost,10032,3,3,1,3,2
+404,Herzbergstraße,3090,2,3,3,2,2
+405,Rüdigerstraße,20149,2,3,2,2,2
+406,Frankfurter Allee Süd,9649,2,3,2,2,2
+407,Victoriastadt,3256,2,3,1,1,2
+408,Weitlingstraße,25784,2,3,2,2,2
+409,Rosenfelder Ring,4924,3,3,2,3,2
+410,Gensinger Straße,5792,2,3,2,3,3
+411,Tierpark,2552,2,2,2,3,3
+412,Sewanstraße,23964,2,3,3,2,2
+413,Rummelsburg,3207,2,3,3,2,2
+414,Karlshorst West,7756,2,3,1,1,2
+415,Karlshorst Nord,9081,2,2,3,2,2
+416,Karlshorst Süd,5492,2,2,3,2,1
+417,Breitkopfbecken,7296,2,3,3,4,3
+418,Hausotterplatz,8763,2,3,1,4,3
+419,Letteplatz,9326,2,3,1,4,3
+420,Teichstraße,12514,2,3,3,4,2
+421,Schäfersee,8257,2,3,3,4,3
+422,Humboldtstraße,4554,2,2,3,4,2
+423,Waldidyll/Flughafensee,6937,2,3,3,4,2
+424,Tegel Süd,7544,3,3,1,4,3
+425,Reinickes Hof,2394,2,3,2,4,2
+426,Klixstraße,7265,3,3,1,4,3
+427,Mellerbogen,5476,2,2,3,4,2
+428,Scharnweberstraße,9569,2,3,2,2,2
+429,Alt-Tegel,10000,2,2,3,1,2
+430,Tegeler Forst,192,1,1,3,0,1
+431,Konradshöhe/Tegelort,5939,1,1,3,1,1
+432,Heiligensee,17587,1,2,3,1,1
+433,Hermsdorf,16113,1,1,3,1,1
+434,Frohnau,16571,1,1,3,1,1
+435,Wittenau Süd,13393,2,3,3,2,2
+436,Wittenau Nord,6174,2,2,3,2,2
+437,Waidmannslust,4742,2,2,3,2,1
+438,Lübars,4817,1,1,3,1,1
+439,Schorfheidestraße,2869,2,2,3,2,2
+440,Märkisches Zentrum,13339,2,3,3,1,3
+441,Treuenbrietzener Straße,10014,2,3,3,2,3
+442,Dannenwalder Weg,9008,3,3,1,2,3
+443,Lübarser Straße,3164,2,2,3,2,2
+444,Rollbergesiedlung,4973,2,2,3,1,2
+445,Borsigwalde,6323,2,3,2,2,2
+446,Ziekowstraße/Freie Scholle,9614,2,2,3,2,2
